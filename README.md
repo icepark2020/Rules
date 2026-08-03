@@ -112,21 +112,12 @@
 >
 <a href="https://github.com/pluralplay/FlClashX"><img src="https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/flclash.png" width="32" style="vertical-align:middle;"/> FlclashX</a>
 >
-<a href="https://github.com/KaringX/clashmi"><img src="https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/clashmi.png" width="32" style="vertical-align:middle;"/> ClashMi</a>
->
 >
 •iOS
 >
 <a href="https://apps.apple.com/us/app/pharos-pro/id1456610173"><img src="https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/pharos.png" width="32" style="vertical-align:middle;"/> Pharos</a>
 >
-<a href="https://apps.apple.com/us/app/clash-mi/id6744321968"><img src="https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/clashmi.png" width="32" style="vertical-align:middle;"/> ClashMi</a>
->
 <a href="https://apps.apple.com/app/stash/id1596063349?platform=iphone&l=zh-CN"><img src="https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash.png" width="32" style="vertical-align:middle;"/> Stash</a>
->
->
-•HarmonyOS
->
-<a href="https://github.com/xiaobaigroup/ClashBox"><img src="https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/clashbox.png" width="32" style="vertical-align:middle;"/> ClashBox</a>  
 >
 >
 •Openwrt
